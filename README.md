@@ -92,19 +92,6 @@ I'm a passionate data scientist who transforms complex problems into intelligent
 
 ---
 
-### [GeoSpatial-RAG: AI Framework](https://github.com/debanjan06/GeoSpatial-RAG)
-<img align="right" alt="RAG System" width="300px" src="https://img.shields.io/badge/RAG_Framework-NLP_Innovation-blue?style=for-the-badge" />
-
-**Retrieval-Augmented Generation System**
-- Vector Database with semantic search capabilities
-- Language Models integrated with custom knowledge base
-- Large-Scale Processing handling thousands of documents
-- Multi-Modal Retrieval combining text and image understanding
-
-**Technologies**: `Transformers` `LangChain` `Vector DB` `CLIP` `NLP`
-
----
-
 ### [Data Science Analytics Platform](https://github.com/debanjan06/Falcon-9-First-Stage-Prediction)
 <img align="right" alt="Data Analytics" width="300px" src="https://img.shields.io/badge/Data_Analytics-Insights_Platform-orange?style=for-the-badge" />
 
