@@ -105,7 +105,7 @@ I'm a passionate data scientist who transforms complex problems into intelligent
 
 ---
 
-### [Data Science Analytics Platform](https://github.com/debanjan06/spacex-launch-prediction)
+### [Data Science Analytics Platform](Falcon-9-First-Stage-Prediction)
 <img align="right" alt="Data Analytics" width="300px" src="https://img.shields.io/badge/Data_Analytics-Insights_Platform-orange?style=for-the-badge" />
 
 **Comprehensive Data Analysis Pipeline**
@@ -151,8 +151,8 @@ I'm a passionate data scientist who transforms complex problems into intelligent
 
 | Credential | Institution | Focus Area |
 |:----------:|:-----------:|:----------:|
-| **M.Tech Data Science** | Amrita Vishwa Vidyapeetham | Advanced ML, Deep Learning, MLOps |
 | **IBM Data Science Professional** | IBM | Complete Data Science Pipeline |
+| **Remote Sensing Image Acquisition, Analysis and Applications** | UNSW | Geospatial Mapping, Computer Vision, Dimensionality Reduction |
 | **AWS Academy ML Foundation** | Amazon Web Services | Cloud ML & Deployment |
 | **Image Processing Certification** | MathWorks | Computer Vision & Image Analysis |
 
