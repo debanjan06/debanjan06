@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Production-Ready+ML+Systems;Agricultural+AI+%26+Remote+Sensing+Expert;84-97%25+Model+Accuracy+Achieved;End-to-End+MLOps+Pipeline+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+ML+Engineer;Building+Production-Ready+AI+Systems;End-to-End+MLOps+Pipeline+Developer;Research+%26+Innovation+Focused)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debanjan06)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debanjan06)
@@ -11,114 +11,127 @@
 
 </div>
 
-## 🎯 Transforming Ideas into Production-Ready AI Solutions
+## 🎯 About Me
 
-> **M.Tech Data Science Student** | **Agricultural AI Researcher** | **MLOps Specialist**
+> **M.Tech Data Science Student** | **Machine Learning Engineer** | **AI Research Enthusiast**
 
-I don't just build models—I create **intelligent systems that solve real-world problems**. From predicting customer behavior with **84% accuracy** to detecting crop diseases **2-3 weeks early**, my work bridges the gap between cutting-edge research and practical business impact.
+I'm a passionate data scientist who transforms complex problems into intelligent solutions. My expertise spans the complete machine learning lifecycle—from data collection and model development to production deployment and monitoring. I specialize in building scalable, production-ready systems that deliver measurable business impact.
 
-### 🎖️ **What Sets Me Apart**
-- 🏆 **Proven Results**: 84-97% model accuracy across diverse domains
-- 💰 **Business Impact**: Demonstrated 20% ROI with quantified financial analysis  
-- 🚀 **Production Focus**: Complete MLOps pipelines with sub-200ms API response times
-- 🌍 **Real-World Data**: Processing authentic satellite imagery and enterprise datasets
-- 📊 **Full-Stack DS**: From data collection to Docker deployment and monitoring
+### 🎖️ **Core Strengths**
+- 🎯 **Full-Stack Data Science**: End-to-end ML pipeline development
+- 🚀 **Production Focus**: Scalable systems with robust MLOps practices
+- 📊 **Business-Driven**: Solutions that create measurable value
+- 🔬 **Research Oriented**: Cutting-edge techniques applied to real problems
+- 💡 **Problem Solver**: Creative approaches to complex challenges
 
 ---
 
-## 🛠️ **Technical Arsenal**
+## 🛠️ **Technical Skills**
 
 <div align="center">
 
-### **Core Data Science Stack**
+### **Programming & Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Machine Learning & AI**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 
-### **MLOps & Production**
+### **Data Processing & Analysis**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### **MLOps & Deployment**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### **Specialized Domains**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### **Specialized Areas**
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=for-the-badge&logo=spacy&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time_Series-4ECDC4?style=for-the-badge&logo=chart.js&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-45B7D1?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 **Featured Projects That Make an Impact**
+## 🎯 **Featured Projects**
 
 ### 🔮 **[Customer Churn Prediction System](https://github.com/debanjan06/churn-prediction-system)**
-<img align="right" alt="Churn Prediction" width="300px" src="https://img.shields.io/badge/Production_Ready-84%25_Accuracy-brightgreen?style=for-the-badge" />
+<img align="right" alt="ML Pipeline" width="300px" src="https://img.shields.io/badge/Production_Ready-ML_System-brightgreen?style=for-the-badge" />
 
-**The Complete Business Solution**
-- 🎯 **84% Accuracy** with XGBoost + comprehensive feature engineering
-- ⚡ **Sub-200ms API** processing 500+ customers in batch mode
-- 💰 **20% Annual ROI** with detailed financial impact analysis
-- 🐳 **Full MLOps Pipeline**: MLflow tracking, Docker deployment, automated testing
+**Complete MLOps Implementation**
+- 🎯 **Advanced ML Pipeline** with feature engineering and model optimization
+- ⚡ **High-Performance API** with fast response times and batch processing
+- 📊 **Business Intelligence** with comprehensive analytics and ROI analysis
+- 🐳 **Production Deployment** using Docker and MLflow tracking
 
-**Impact**: Saves $4,830 annually per 500 customers through targeted retention strategies
-
----
-
-### 🌾 **[AgriGuard: AI-Powered Crop Protection](https://github.com/debanjan06/AgriGuard)**
-<img align="right" alt="AgriGuard" width="300px" src="https://img.shields.io/badge/Early_Warning-97.5%25_Accuracy-success?style=for-the-badge" />
-
-**Revolutionizing Agriculture with AI**
-- 🛰️ **Real Satellite Data**: 205 Sentinel-2 images via Google Earth Engine
-- 🧠 **Multi-Modal CNN**: Combines imagery + weather + vegetation indices
-- ⏰ **2-3 Weeks Early Warning** before visual disease symptoms
-- 📱 **Production Ready**: Streamlit interface + Docker deployment
-
-**Impact**: Potential 20-40% yield loss prevention for smallholder farmers
+**Technologies**: `Python` `XGBoost` `FastAPI` `Docker` `MLflow`
 
 ---
 
-### 🌍 **[GeoSpatial-RAG: Next-Gen Remote Sensing AI](https://github.com/debanjan06/GeoSpatial-RAG)**
-<img align="right" alt="GeoSpatial RAG" width="300px" src="https://img.shields.io/badge/Novel_Framework-10K+_Images-blue?style=for-the-badge" />
+### 🌾 **[AgriGuard: Multi-Modal AI System](https://github.com/debanjan06/AgriGuard)**
+<img align="right" alt="Computer Vision" width="300px" src="https://img.shields.io/badge/Computer_Vision-AI_Research-success?style=for-the-badge" />
 
-**Bridging Natural Language & Satellite Imagery**
-- 🔍 **CLIP Embeddings**: Multi-modal vector database with semantic search
-- 🤖 **LangChain Integration**: Context-aware natural language responses
-- 📊 **10,000+ Images**: Complete RSICD dataset processing
-- 🎯 **Cross-Modal Retrieval**: Text-image similarity with weighted scoring
+**Advanced Computer Vision Application**
+- 🛰️ **Multi-Modal Architecture** combining multiple data sources
+- 🧠 **Deep Learning Models** with convolutional neural networks
+- 📱 **Interactive Interface** with real-time prediction capabilities
+- 🔬 **Research Implementation** with experiment tracking and validation
 
-**Innovation**: First RAG system specifically designed for remote sensing domain
-
----
-
-### 🚀 **[SpaceX Launch Intelligence](https://github.com/debanjan06/spacex-launch-prediction)**
-<img align="right" alt="SpaceX Prediction" width="300px" src="https://img.shields.io/badge/Business_Intelligence-86%25_Accuracy-orange?style=for-the-badge" />
-
-**Data-Driven Space Industry Analysis**
-- 📈 **Success Rate Evolution**: 33% (2013) → 83% (2020) documented
-- 🌐 **Interactive Dashboards**: Plotly + Folium geospatial analysis
-- 🔍 **Complete Data Pipeline**: API integration + web scraping + ML modeling
-- 💼 **Business Insights**: Cost optimization strategies vs. competitors
-
-**Value**: Enables strategic decision-making for space industry competitors
+**Technologies**: `PyTorch` `Computer Vision` `Multi-Modal AI` `Streamlit`
 
 ---
 
-### 🛰️ **[SatelliteRL: Autonomous Space Operations](https://github.com/debanjan06/SatelliteRL)**
-<img align="right" alt="SatelliteRL" width="300px" src="https://img.shields.io/badge/Cutting_Edge-RL_Research-purple?style=for-the-badge" />
+### 🌍 **[GeoSpatial-RAG: AI Framework](https://github.com/debanjan06/GeoSpatial-RAG)**
+<img align="right" alt="RAG System" width="300px" src="https://img.shields.io/badge/RAG_Framework-NLP_Innovation-blue?style=for-the-badge" />
 
-**Reinforcement Learning for Space Technology**
-- 🤖 **Multi-Agent RL**: Autonomous satellite constellation management
-- 🌤️ **Real-Time Integration**: Weather data + orbital mechanics simulation
-- 📊 **Performance Target**: 15-20% efficiency improvement
-- 🔬 **Research Innovation**: Hierarchical action spaces for complex maneuvers
+**Retrieval-Augmented Generation System**
+- 🔍 **Vector Database** with semantic search capabilities
+- 🤖 **Language Models** integrated with custom knowledge base
+- 📊 **Large-Scale Processing** handling thousands of documents
+- 🎯 **Multi-Modal Retrieval** combining text and image understanding
 
-**Future Impact**: Revolutionizing Earth observation and satellite operations
+**Technologies**: `Transformers` `LangChain` `Vector DB` `CLIP` `NLP`
 
 ---
 
-## 📊 **Performance Dashboard**
+### 🚀 **[Data Science Analytics Platform](https://github.com/debanjan06/spacex-launch-prediction)**
+<img align="right" alt="Data Analytics" width="300px" src="https://img.shields.io/badge/Data_Analytics-Insights_Platform-orange?style=for-the-badge" />
+
+**Comprehensive Data Analysis Pipeline**
+- 📈 **Statistical Analysis** with trend identification and forecasting
+- 🌐 **Interactive Dashboards** for data exploration and visualization
+- 🔍 **Data Pipeline** with API integration and web scraping
+- 💼 **Business Intelligence** with actionable insights and recommendations
+
+**Technologies**: `Python` `Data Analytics` `Visualization` `Statistical Modeling`
+
+---
+
+### 🛰️ **[Reinforcement Learning Framework](https://github.com/debanjan06/SatelliteRL)**
+<img align="right" alt="RL Research" width="300px" src="https://img.shields.io/badge/RL_Research-Advanced_AI-purple?style=for-the-badge" />
+
+**Advanced AI Research Project**
+- 🤖 **Multi-Agent Systems** with complex environment simulation
+- 🎮 **Reinforcement Learning** algorithms and optimization techniques
+- 📊 **Performance Monitoring** with comprehensive evaluation metrics
+- 🔬 **Research Innovation** pushing boundaries of current methods
+
+**Technologies**: `PyTorch` `Reinforcement Learning` `Multi-Agent Systems` `Simulation`
+
+---
+
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
@@ -132,46 +145,47 @@ I don't just build models—I create **intelligent systems that solve real-world
 
 ---
 
-## 🏆 **Professional Credentials**
+## 🏆 **Certifications & Education**
 
 <div align="center">
 
-| Certification | Focus Area | Skills Demonstrated |
-|:-------------:|:----------:|:------------------:|
-| **🔵 IBM Data Science Professional** | End-to-End ML Pipeline | Python, SQL, Scikit-learn, Real Projects |
-| **☁️ AWS Academy ML Foundation** | Cloud ML Deployment | AWS Services, Model Deployment, Scalability |
-| **📸 MathWorks Image Processing** | Computer Vision | MATLAB, OpenCV, Image Analysis |
+| Credential | Institution | Focus Area |
+|:----------:|:-----------:|:----------:|
+| **🎓 M.Tech Data Science** | Amrita Vishwa Vidyapeetham | Advanced ML, Deep Learning, MLOps |
+| **🔵 IBM Data Science Professional** | IBM | Complete Data Science Pipeline |
+| **☁️ AWS Academy ML Foundation** | Amazon Web Services | Cloud ML & Deployment |
+| **📸 Image Processing Certification** | MathWorks | Computer Vision & Image Analysis |
 
 </div>
 
 ---
 
-## 🎯 **Current Mission**
+## 🎯 **Areas of Expertise**
 
 <div align="center">
 
 ```
-🔬 Research Focus: Agricultural AI + Remote Sensing Applications
-🛠️ Building: Production-Ready ML Systems with MLOps Best Practices  
-🌐 Contributing: Open Source Projects in AI for Social Good
-📚 Learning: Advanced Reinforcement Learning + Multi-Modal AI
+🤖 Machine Learning Engineering    📊 Data Analytics & Visualization
+🧠 Deep Learning & Neural Networks  ☁️ MLOps & Cloud Deployment  
+👁️ Computer Vision Applications    📝 Natural Language Processing
+⚡ Real-Time Systems & APIs        🔬 Research & Innovation
 ```
 
 </div>
 
 ---
 
-## 📈 **Business Impact Metrics**
+## 📈 **Key Achievements**
 
 <div align="center">
 
-| Metric | Achievement | Domain |
-|:------:|:-----------:|:------:|
-| **Model Accuracy** | 84-97% | Multiple Domains |
-| **API Response Time** | <200ms | Production Systems |
-| **ROI Demonstrated** | 20% Annual | Business Analytics |
-| **Data Processed** | 10K+ Images | Computer Vision |
-| **Early Warning** | 2-3 Weeks | Agricultural AI |
+| Achievement | Impact | Domain |
+|:----------:|:------:|:------:|
+| **High-Accuracy Models** | Consistently Strong Performance | Multiple Domains |
+| **Production Systems** | Fast & Scalable Deployment | MLOps & Engineering |
+| **Research Contributions** | Innovation & Publications | AI Research |
+| **Open Source Projects** | Community Impact | Software Development |
+| **Technical Leadership** | Mentoring & Knowledge Sharing | Team Collaboration |
 
 </div>
 
@@ -179,43 +193,42 @@ I don't just build models—I create **intelligent systems that solve real-world
 
 ## 📝 **Knowledge Sharing**
 
-### 📚 **Latest Publications**
-- 📖 [**Building Production-Ready Customer Churn Prediction Systems**](https://medium.com/@debanjanshil66/building-a-production-ready-customer-churn-prediction-system-from-data-to-docker-to-dashboard-b81255d82566)
-  - *Complete technical guide: Data → Docker → Dashboard*
-  - *4,000+ reads | Industry best practices*
+### 📚 **Technical Writing**
+- 📖 [**Production ML Systems: Complete Guide**](https://medium.com/@debanjanshil66)
+  - *Comprehensive technical implementation tutorials*
+  - *Best practices for ML in production*
 
-### 🎯 **Speaking & Community**
-- 🌟 **Open Source Contributor**: 5+ repositories with comprehensive documentation
-- 💡 **Technical Mentor**: Helping students transition from theory to production
-- 📊 **Industry Insights**: Agricultural AI and Remote Sensing applications
+### 🎯 **Community Contributions**
+- 🌟 **Open Source**: Multiple repositories with detailed documentation
+- 💡 **Technical Mentoring**: Supporting fellow data scientists and students
+- 📊 **Industry Applications**: Real-world problem solving and innovation
 
 ---
 
-## 🤝 **Let's Build Something Amazing Together**
+## 🤝 **Let's Collaborate**
 
 <div align="center">
 
-### **💡 Collaboration Opportunities**
+### **💡 Areas of Interest**
 
 ```
-🌾 Agricultural AI & Smart Farming Solutions
-🛰️ Remote Sensing & Earth Observation Projects  
-🏭 Production ML Systems & MLOps Implementation
-🔬 Research Publications & Open Source Contributions
+🏢 Enterprise ML Solutions        🔬 Research & Development
+🌐 Open Source Contributions     📚 Technical Education & Mentoring
+🚀 Startup & Innovation Projects  🎯 Consulting & Advisory Roles
 ```
 
-### **🎯 Available For**
-**Data Science Internships** | **Research Collaborations** | **Open Source Projects** | **Technical Mentoring**
+### **🎯 Currently Seeking**
+**Data Science Internships** | **ML Engineering Roles** | **Research Collaborations** | **Open Source Projects**
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debanjan06)
-[![Email](https://img.shields.io/badge/Start_a_Conversation-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bl.sc.p2dsc24032@bl.students.amrita.edu)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debanjan06)
+[![Email](https://img.shields.io/badge/Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bl.sc.p2dsc24032@bl.students.amrita.edu)
 [![Medium](https://img.shields.io/badge/Read_My_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@debanjanshil66)
 
 ---
 
-*"Transforming complex data into intelligent solutions that create real-world impact"*
+*"Passionate about turning data into actionable insights and building AI systems that make a difference"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=debanjan06&color=brightgreen&style=for-the-badge)
 
