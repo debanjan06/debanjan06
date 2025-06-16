@@ -105,7 +105,7 @@ I'm a passionate data scientist who transforms complex problems into intelligent
 
 ---
 
-### [Data Science Analytics Platform](Falcon-9-First-Stage-Prediction)
+### [Data Science Analytics Platform](https://github.com/debanjan06/Falcon-9-First-Stage-Prediction)
 <img align="right" alt="Data Analytics" width="300px" src="https://img.shields.io/badge/Data_Analytics-Insights_Platform-orange?style=for-the-badge" />
 
 **Comprehensive Data Analysis Pipeline**
