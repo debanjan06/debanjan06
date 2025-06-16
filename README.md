@@ -92,18 +92,6 @@ I'm a passionate data scientist who transforms complex problems into intelligent
 
 ---
 
-### [Data Science Analytics Platform](https://github.com/debanjan06/Falcon-9-First-Stage-Prediction)
-<img align="right" alt="Data Analytics" width="300px" src="https://img.shields.io/badge/Data_Analytics-Insights_Platform-orange?style=for-the-badge" />
-
-**Comprehensive Data Analysis Pipeline**
-- Statistical Analysis with trend identification and forecasting
-- Interactive Dashboards for data exploration and visualization
-- Data Pipeline with API integration and web scraping
-- Business Intelligence with actionable insights and recommendations
-
-**Technologies**: `Python` `Data Analytics` `Visualization` `Statistical Modeling`
-
----
 
 ### [Reinforcement Learning Framework](https://github.com/debanjan06/SatelliteRL)
 <img align="right" alt="RL Research" width="300px" src="https://img.shields.io/badge/RL_Research-Advanced_AI-purple?style=for-the-badge" />
