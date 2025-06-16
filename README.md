@@ -1,4 +1,4 @@
-# 🚀 Debanjan Shil | Data Scientist & ML Engineer
+# Debanjan Shil | Data Scientist & ML Engineer
 
 <div align="center">
 
@@ -11,50 +11,50 @@
 
 </div>
 
-## 🎯 About Me
+## About Me
 
 > **M.Tech Data Science Student** | **Machine Learning Engineer** | **AI Research Enthusiast**
 
 I'm a passionate data scientist who transforms complex problems into intelligent solutions. My expertise spans the complete machine learning lifecycle—from data collection and model development to production deployment and monitoring. I specialize in building scalable, production-ready systems that deliver measurable business impact.
 
-### 🎖️ **Core Strengths**
-- 🎯 **Full-Stack Data Science**: End-to-end ML pipeline development
-- 🚀 **Production Focus**: Scalable systems with robust MLOps practices
-- 📊 **Business-Driven**: Solutions that create measurable value
-- 🔬 **Research Oriented**: Cutting-edge techniques applied to real problems
-- 💡 **Problem Solver**: Creative approaches to complex challenges
+### Core Strengths
+- **Full-Stack Data Science**: End-to-end ML pipeline development
+- **Production Focus**: Scalable systems with robust MLOps practices
+- **Business-Driven**: Solutions that create measurable value
+- **Research Oriented**: Cutting-edge techniques applied to real problems
+- **Problem Solver**: Creative approaches to complex challenges
 
 ---
 
-## 🛠️ **Technical Skills**
+## Technical Skills
 
 <div align="center">
 
-### **Programming & Data Science**
+### Programming & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Machine Learning & AI**
+### Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 
-### **Data Processing & Analysis**
+### Data Processing & Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### **MLOps & Deployment**
+### MLOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### **Specialized Areas**
+### Specialized Areas
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=for-the-badge&logo=spacy&logoColor=white)
 ![Time Series](https://img.shields.io/badge/Time_Series-4ECDC4?style=for-the-badge&logo=chart.js&logoColor=white)
@@ -64,74 +64,74 @@ I'm a passionate data scientist who transforms complex problems into intelligent
 
 ---
 
-## 🎯 **Featured Projects**
+## Featured Projects
 
-### 🔮 **[Customer Churn Prediction System](https://github.com/debanjan06/churn-prediction-system)**
+### [Customer Churn Prediction System](https://github.com/debanjan06/churn-prediction-system)
 <img align="right" alt="ML Pipeline" width="300px" src="https://img.shields.io/badge/Production_Ready-ML_System-brightgreen?style=for-the-badge" />
 
 **Complete MLOps Implementation**
-- 🎯 **Advanced ML Pipeline** with feature engineering and model optimization
-- ⚡ **High-Performance API** with fast response times and batch processing
-- 📊 **Business Intelligence** with comprehensive analytics and ROI analysis
-- 🐳 **Production Deployment** using Docker and MLflow tracking
+- Advanced ML Pipeline with feature engineering and model optimization
+- High-Performance API with fast response times and batch processing
+- Business Intelligence with comprehensive analytics and ROI analysis
+- Production Deployment using Docker and MLflow tracking
 
 **Technologies**: `Python` `XGBoost` `FastAPI` `Docker` `MLflow`
 
 ---
 
-### 🌾 **[AgriGuard: Multi-Modal AI System](https://github.com/debanjan06/AgriGuard)**
+### [AgriGuard: Multi-Modal AI System](https://github.com/debanjan06/AgriGuard)
 <img align="right" alt="Computer Vision" width="300px" src="https://img.shields.io/badge/Computer_Vision-AI_Research-success?style=for-the-badge" />
 
 **Advanced Computer Vision Application**
-- 🛰️ **Multi-Modal Architecture** combining multiple data sources
-- 🧠 **Deep Learning Models** with convolutional neural networks
-- 📱 **Interactive Interface** with real-time prediction capabilities
-- 🔬 **Research Implementation** with experiment tracking and validation
+- Multi-Modal Architecture combining multiple data sources
+- Deep Learning Models with convolutional neural networks
+- Interactive Interface with real-time prediction capabilities
+- Research Implementation with experiment tracking and validation
 
 **Technologies**: `PyTorch` `Computer Vision` `Multi-Modal AI` `Streamlit`
 
 ---
 
-### 🌍 **[GeoSpatial-RAG: AI Framework](https://github.com/debanjan06/GeoSpatial-RAG)**
+### [GeoSpatial-RAG: AI Framework](https://github.com/debanjan06/GeoSpatial-RAG)
 <img align="right" alt="RAG System" width="300px" src="https://img.shields.io/badge/RAG_Framework-NLP_Innovation-blue?style=for-the-badge" />
 
 **Retrieval-Augmented Generation System**
-- 🔍 **Vector Database** with semantic search capabilities
-- 🤖 **Language Models** integrated with custom knowledge base
-- 📊 **Large-Scale Processing** handling thousands of documents
-- 🎯 **Multi-Modal Retrieval** combining text and image understanding
+- Vector Database with semantic search capabilities
+- Language Models integrated with custom knowledge base
+- Large-Scale Processing handling thousands of documents
+- Multi-Modal Retrieval combining text and image understanding
 
 **Technologies**: `Transformers` `LangChain` `Vector DB` `CLIP` `NLP`
 
 ---
 
-### 🚀 **[Data Science Analytics Platform](https://github.com/debanjan06/spacex-launch-prediction)**
+### [Data Science Analytics Platform](https://github.com/debanjan06/spacex-launch-prediction)
 <img align="right" alt="Data Analytics" width="300px" src="https://img.shields.io/badge/Data_Analytics-Insights_Platform-orange?style=for-the-badge" />
 
 **Comprehensive Data Analysis Pipeline**
-- 📈 **Statistical Analysis** with trend identification and forecasting
-- 🌐 **Interactive Dashboards** for data exploration and visualization
-- 🔍 **Data Pipeline** with API integration and web scraping
-- 💼 **Business Intelligence** with actionable insights and recommendations
+- Statistical Analysis with trend identification and forecasting
+- Interactive Dashboards for data exploration and visualization
+- Data Pipeline with API integration and web scraping
+- Business Intelligence with actionable insights and recommendations
 
 **Technologies**: `Python` `Data Analytics` `Visualization` `Statistical Modeling`
 
 ---
 
-### 🛰️ **[Reinforcement Learning Framework](https://github.com/debanjan06/SatelliteRL)**
+### [Reinforcement Learning Framework](https://github.com/debanjan06/SatelliteRL)
 <img align="right" alt="RL Research" width="300px" src="https://img.shields.io/badge/RL_Research-Advanced_AI-purple?style=for-the-badge" />
 
 **Advanced AI Research Project**
-- 🤖 **Multi-Agent Systems** with complex environment simulation
-- 🎮 **Reinforcement Learning** algorithms and optimization techniques
-- 📊 **Performance Monitoring** with comprehensive evaluation metrics
-- 🔬 **Research Innovation** pushing boundaries of current methods
+- Multi-Agent Systems with complex environment simulation
+- Reinforcement Learning algorithms and optimization techniques
+- Performance Monitoring with comprehensive evaluation metrics
+- Research Innovation pushing boundaries of current methods
 
 **Technologies**: `PyTorch` `Reinforcement Learning` `Multi-Agent Systems` `Simulation`
 
 ---
 
-## 📊 **GitHub Analytics**
+## GitHub Analytics
 
 <div align="center">
 
@@ -145,37 +145,37 @@ I'm a passionate data scientist who transforms complex problems into intelligent
 
 ---
 
-## 🏆 **Certifications & Education**
+## Certifications & Education
 
 <div align="center">
 
 | Credential | Institution | Focus Area |
 |:----------:|:-----------:|:----------:|
-| **🎓 M.Tech Data Science** | Amrita Vishwa Vidyapeetham | Advanced ML, Deep Learning, MLOps |
-| **🔵 IBM Data Science Professional** | IBM | Complete Data Science Pipeline |
-| **☁️ AWS Academy ML Foundation** | Amazon Web Services | Cloud ML & Deployment |
-| **📸 Image Processing Certification** | MathWorks | Computer Vision & Image Analysis |
+| **M.Tech Data Science** | Amrita Vishwa Vidyapeetham | Advanced ML, Deep Learning, MLOps |
+| **IBM Data Science Professional** | IBM | Complete Data Science Pipeline |
+| **AWS Academy ML Foundation** | Amazon Web Services | Cloud ML & Deployment |
+| **Image Processing Certification** | MathWorks | Computer Vision & Image Analysis |
 
 </div>
 
 ---
 
-## 🎯 **Areas of Expertise**
+## Areas of Expertise
 
 <div align="center">
 
 ```
-🤖 Machine Learning Engineering    📊 Data Analytics & Visualization
-🧠 Deep Learning & Neural Networks  ☁️ MLOps & Cloud Deployment  
-👁️ Computer Vision Applications    📝 Natural Language Processing
-⚡ Real-Time Systems & APIs        🔬 Research & Innovation
+Machine Learning Engineering    Data Analytics & Visualization
+Deep Learning & Neural Networks  MLOps & Cloud Deployment  
+Computer Vision Applications    Natural Language Processing
+Real-Time Systems & APIs        Research & Innovation
 ```
 
 </div>
 
 ---
 
-## 📈 **Key Achievements**
+## Key Achievements
 
 <div align="center">
 
@@ -191,33 +191,33 @@ I'm a passionate data scientist who transforms complex problems into intelligent
 
 ---
 
-## 📝 **Knowledge Sharing**
+## Knowledge Sharing
 
-### 📚 **Technical Writing**
-- 📖 [**Production ML Systems: Complete Guide**](https://medium.com/@debanjanshil66)
+### Technical Writing
+- [**Production ML Systems: Complete Guide**](https://medium.com/@debanjanshil66)
   - *Comprehensive technical implementation tutorials*
   - *Best practices for ML in production*
 
-### 🎯 **Community Contributions**
-- 🌟 **Open Source**: Multiple repositories with detailed documentation
-- 💡 **Technical Mentoring**: Supporting fellow data scientists and students
-- 📊 **Industry Applications**: Real-world problem solving and innovation
+### Community Contributions
+- **Open Source**: Multiple repositories with detailed documentation
+- **Technical Mentoring**: Supporting fellow data scientists and students
+- **Industry Applications**: Real-world problem solving and innovation
 
 ---
 
-## 🤝 **Let's Collaborate**
+## Let's Collaborate
 
 <div align="center">
 
-### **💡 Areas of Interest**
+### Areas of Interest
 
 ```
-🏢 Enterprise ML Solutions        🔬 Research & Development
-🌐 Open Source Contributions     📚 Technical Education & Mentoring
-🚀 Startup & Innovation Projects  🎯 Consulting & Advisory Roles
+Enterprise ML Solutions        Research & Development
+Open Source Contributions     Technical Education & Mentoring
+Startup & Innovation Projects  Consulting & Advisory Roles
 ```
 
-### **🎯 Currently Seeking**
+### Currently Seeking
 **Data Science Internships** | **ML Engineering Roles** | **Research Collaborations** | **Open Source Projects**
 
 ---
