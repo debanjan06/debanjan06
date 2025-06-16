@@ -1,136 +1,222 @@
-# Hello, I'm Debanjan Shil 👋
+# 🚀 Debanjan Shil | Data Scientist & ML Engineer
 
 <div align="center">
-  
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Production-Ready+ML+Systems;Agricultural+AI+%26+Remote+Sensing+Expert;84-97%25+Model+Accuracy+Achieved;End-to-End+MLOps+Pipeline+Developer)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debanjan06)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debanjan06)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bl.sc.p2dsc24032@bl.students.amrita.edu)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@debanjanshil66)
 
 </div>
 
-## 🎯 About Me
+## 🎯 Transforming Ideas into Production-Ready AI Solutions
 
-Data Science graduate student at **Amrita Vishwa Vidyapeetham** with expertise in building production-ready ML systems. I specialize in **Computer Vision**, **MLOps**, and **Agricultural AI** with experience in deploying models that achieve 84-97% accuracy across diverse domains.
+> **M.Tech Data Science Student** | **Agricultural AI Researcher** | **MLOps Specialist**
 
-- 🔭 Currently working on **Reinforcement Learning for Satellite Constellation Management**
-- 🌱 Learning advanced **MLOps** and **Computer Vision** techniques
-- 📫 Reach me at: **bl.sc.p2dsc24032@bl.students.amrita.edu**
-- 📍 Based in **Bengaluru, Karnataka**
+I don't just build models—I create **intelligent systems that solve real-world problems**. From predicting customer behavior with **84% accuracy** to detecting crop diseases **2-3 weeks early**, my work bridges the gap between cutting-edge research and practical business impact.
 
-## 🛠️ Tech Stack
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-### Machine Learning & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-### MLOps & Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-### Specialized Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat&logo=google&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-## 🚀 Featured Projects
-
-### 🔮 [Customer Churn Prediction System](https://github.com/debanjan06/churn-prediction-system)
-**Production-ready ML system with 84% accuracy and 20% ROI**
-- XGBoost model with FastAPI deployment achieving sub-200ms response times
-- Complete MLOps pipeline with MLflow tracking and Docker containerization
-- Batch processing capability for 500+ customers with comprehensive business analysis
-
-**Tech:** `Python` `XGBoost` `FastAPI` `Docker` `MLflow`
-
-### 🌾 [AgriGuard: Multi-Modal Crop Disease Detection](https://github.com/debanjan06/AgriGuard)
-**AI-powered early disease detection with 97.5% accuracy**
-- Multi-modal CNN combining satellite imagery, vegetation indices, and weather data
-- Processed 205 real Sentinel-2 images via Google Earth Engine API
-- Delivers 2-3 weeks early warning with Streamlit interface
-
-**Tech:** `PyTorch` `Google Earth Engine` `Docker` `Computer Vision`
-
-### 🛰️ [GeoSpatial-RAG: AI Framework for Remote Sensing](https://github.com/debanjan06/GeoSpatial-RAG)
-**Novel RAG system for remote sensing image analysis**
-- Multi-modal vector database storing 10,000+ remote sensing images
-- CLIP embeddings with LangChain integration for semantic search
-- Cross-modal retrieval with weighted similarity scoring
-
-**Tech:** `CLIP` `LangChain` `SQLite` `Transformers` `BLIP`
-
-### 🚀 [SpaceX Launch Success Prediction](https://github.com/debanjan06/spacex-launch-prediction)
-**Data science pipeline achieving 86% accuracy on launch predictions**
-- Analyzed 101 Falcon 9 launches using SpaceX API and web scraping
-- Interactive Plotly dashboards and Folium geospatial visualizations
-- Complete EDA revealing success rate improvement from 33% to 83%
-
-**Tech:** `Python` `Scikit-learn` `Plotly` `BeautifulSoup` `SQL`
-
-### 🛰️ [SatelliteRL: Intelligent Constellation Management](https://github.com/debanjan06/SatelliteRL)
-**Reinforcement learning for autonomous satellite operations**
-- Multi-agent RL system for satellite scheduling and Earth observation optimization
-- Orbital simulation environment with real-time weather integration
-- Targeting 15-20% improvement in coverage efficiency
-
-**Tech:** `PyTorch` `Reinforcement Learning` `Skyfield` `Multi-Agent Systems`
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debanjan06&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debanjan06&layout=compact&theme=dark)
-
-</div>
-
-## 🏆 Certifications
-
-- **IBM Data Science Professional Certificate** - Comprehensive 10-course program with hands-on projects
-- **AWS Academy Machine Learning Foundation** - Cloud-based ML services and deployment
-- **Image Processing Onramp by MathWorks** - MATLAB-based computer vision techniques
-
-## 📈 Current Focus
-
-- 🔬 **Research**: Computer Vision applications in Agriculture and Remote Sensing
-- 🛠️ **Development**: Production-ready ML systems with MLOps best practices
-- 🌐 **Open Source**: Contributing to agricultural AI and satellite technology projects
-- 📚 **Learning**: Advanced Reinforcement Learning and Multi-Modal AI systems
-
-## 📝 Latest Blog Posts
-
-- [Building a Production-Ready Customer Churn Prediction System](https://medium.com/@debanjanshil66/building-a-production-ready-customer-churn-prediction-system-from-data-to-docker-to-dashboard-b81255d82566) - Technical deep-dive into end-to-end ML pipeline
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on:
-- **Agricultural AI** and **Remote Sensing** projects
-- **MLOps** and **Production ML** systems
-- **Computer Vision** applications
-- **Open Source** contributions
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debanjan06)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bl.sc.p2dsc24032@bl.students.amrita.edu)
+### 🎖️ **What Sets Me Apart**
+- 🏆 **Proven Results**: 84-97% model accuracy across diverse domains
+- 💰 **Business Impact**: Demonstrated 20% ROI with quantified financial analysis  
+- 🚀 **Production Focus**: Complete MLOps pipelines with sub-200ms API response times
+- 🌍 **Real-World Data**: Processing authentic satellite imagery and enterprise datasets
+- 📊 **Full-Stack DS**: From data collection to Docker deployment and monitoring
 
 ---
 
-*"Building intelligent systems that bridge the gap between research and production"*
+## 🛠️ **Technical Arsenal**
+
+<div align="center">
+
+### **Core Data Science Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### **MLOps & Production**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### **Specialized Domains**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 **Featured Projects That Make an Impact**
+
+### 🔮 **[Customer Churn Prediction System](https://github.com/debanjan06/churn-prediction-system)**
+<img align="right" alt="Churn Prediction" width="300px" src="https://img.shields.io/badge/Production_Ready-84%25_Accuracy-brightgreen?style=for-the-badge" />
+
+**The Complete Business Solution**
+- 🎯 **84% Accuracy** with XGBoost + comprehensive feature engineering
+- ⚡ **Sub-200ms API** processing 500+ customers in batch mode
+- 💰 **20% Annual ROI** with detailed financial impact analysis
+- 🐳 **Full MLOps Pipeline**: MLflow tracking, Docker deployment, automated testing
+
+**Impact**: Saves $4,830 annually per 500 customers through targeted retention strategies
+
+---
+
+### 🌾 **[AgriGuard: AI-Powered Crop Protection](https://github.com/debanjan06/AgriGuard)**
+<img align="right" alt="AgriGuard" width="300px" src="https://img.shields.io/badge/Early_Warning-97.5%25_Accuracy-success?style=for-the-badge" />
+
+**Revolutionizing Agriculture with AI**
+- 🛰️ **Real Satellite Data**: 205 Sentinel-2 images via Google Earth Engine
+- 🧠 **Multi-Modal CNN**: Combines imagery + weather + vegetation indices
+- ⏰ **2-3 Weeks Early Warning** before visual disease symptoms
+- 📱 **Production Ready**: Streamlit interface + Docker deployment
+
+**Impact**: Potential 20-40% yield loss prevention for smallholder farmers
+
+---
+
+### 🌍 **[GeoSpatial-RAG: Next-Gen Remote Sensing AI](https://github.com/debanjan06/GeoSpatial-RAG)**
+<img align="right" alt="GeoSpatial RAG" width="300px" src="https://img.shields.io/badge/Novel_Framework-10K+_Images-blue?style=for-the-badge" />
+
+**Bridging Natural Language & Satellite Imagery**
+- 🔍 **CLIP Embeddings**: Multi-modal vector database with semantic search
+- 🤖 **LangChain Integration**: Context-aware natural language responses
+- 📊 **10,000+ Images**: Complete RSICD dataset processing
+- 🎯 **Cross-Modal Retrieval**: Text-image similarity with weighted scoring
+
+**Innovation**: First RAG system specifically designed for remote sensing domain
+
+---
+
+### 🚀 **[SpaceX Launch Intelligence](https://github.com/debanjan06/spacex-launch-prediction)**
+<img align="right" alt="SpaceX Prediction" width="300px" src="https://img.shields.io/badge/Business_Intelligence-86%25_Accuracy-orange?style=for-the-badge" />
+
+**Data-Driven Space Industry Analysis**
+- 📈 **Success Rate Evolution**: 33% (2013) → 83% (2020) documented
+- 🌐 **Interactive Dashboards**: Plotly + Folium geospatial analysis
+- 🔍 **Complete Data Pipeline**: API integration + web scraping + ML modeling
+- 💼 **Business Insights**: Cost optimization strategies vs. competitors
+
+**Value**: Enables strategic decision-making for space industry competitors
+
+---
+
+### 🛰️ **[SatelliteRL: Autonomous Space Operations](https://github.com/debanjan06/SatelliteRL)**
+<img align="right" alt="SatelliteRL" width="300px" src="https://img.shields.io/badge/Cutting_Edge-RL_Research-purple?style=for-the-badge" />
+
+**Reinforcement Learning for Space Technology**
+- 🤖 **Multi-Agent RL**: Autonomous satellite constellation management
+- 🌤️ **Real-Time Integration**: Weather data + orbital mechanics simulation
+- 📊 **Performance Target**: 15-20% efficiency improvement
+- 🔬 **Research Innovation**: Hierarchical action spaces for complex maneuvers
+
+**Future Impact**: Revolutionizing Earth observation and satellite operations
+
+---
+
+## 📊 **Performance Dashboard**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debanjan06&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debanjan06&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debanjan06&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 **Professional Credentials**
+
+<div align="center">
+
+| Certification | Focus Area | Skills Demonstrated |
+|:-------------:|:----------:|:------------------:|
+| **🔵 IBM Data Science Professional** | End-to-End ML Pipeline | Python, SQL, Scikit-learn, Real Projects |
+| **☁️ AWS Academy ML Foundation** | Cloud ML Deployment | AWS Services, Model Deployment, Scalability |
+| **📸 MathWorks Image Processing** | Computer Vision | MATLAB, OpenCV, Image Analysis |
+
+</div>
+
+---
+
+## 🎯 **Current Mission**
+
+<div align="center">
+
+```
+🔬 Research Focus: Agricultural AI + Remote Sensing Applications
+🛠️ Building: Production-Ready ML Systems with MLOps Best Practices  
+🌐 Contributing: Open Source Projects in AI for Social Good
+📚 Learning: Advanced Reinforcement Learning + Multi-Modal AI
+```
+
+</div>
+
+---
+
+## 📈 **Business Impact Metrics**
+
+<div align="center">
+
+| Metric | Achievement | Domain |
+|:------:|:-----------:|:------:|
+| **Model Accuracy** | 84-97% | Multiple Domains |
+| **API Response Time** | <200ms | Production Systems |
+| **ROI Demonstrated** | 20% Annual | Business Analytics |
+| **Data Processed** | 10K+ Images | Computer Vision |
+| **Early Warning** | 2-3 Weeks | Agricultural AI |
+
+</div>
+
+---
+
+## 📝 **Knowledge Sharing**
+
+### 📚 **Latest Publications**
+- 📖 [**Building Production-Ready Customer Churn Prediction Systems**](https://medium.com/@debanjanshil66/building-a-production-ready-customer-churn-prediction-system-from-data-to-docker-to-dashboard-b81255d82566)
+  - *Complete technical guide: Data → Docker → Dashboard*
+  - *4,000+ reads | Industry best practices*
+
+### 🎯 **Speaking & Community**
+- 🌟 **Open Source Contributor**: 5+ repositories with comprehensive documentation
+- 💡 **Technical Mentor**: Helping students transition from theory to production
+- 📊 **Industry Insights**: Agricultural AI and Remote Sensing applications
+
+---
+
+## 🤝 **Let's Build Something Amazing Together**
+
+<div align="center">
+
+### **💡 Collaboration Opportunities**
+
+```
+🌾 Agricultural AI & Smart Farming Solutions
+🛰️ Remote Sensing & Earth Observation Projects  
+🏭 Production ML Systems & MLOps Implementation
+🔬 Research Publications & Open Source Contributions
+```
+
+### **🎯 Available For**
+**Data Science Internships** | **Research Collaborations** | **Open Source Projects** | **Technical Mentoring**
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debanjan06)
+[![Email](https://img.shields.io/badge/Start_a_Conversation-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bl.sc.p2dsc24032@bl.students.amrita.edu)
+[![Medium](https://img.shields.io/badge/Read_My_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@debanjanshil66)
+
+---
+
+*"Transforming complex data into intelligent solutions that create real-world impact"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=debanjan06&color=brightgreen&style=for-the-badge)
 
 </div>
