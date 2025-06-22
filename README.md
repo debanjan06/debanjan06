@@ -66,7 +66,7 @@ I'm a passionate data scientist who transforms complex problems into intelligent
 
 ## Featured Projects
 
-### [Customer Churn Prediction System](https://github.com/debanjan06/churn-prediction-system)
+### [Customer Churn Prediction System](https://github.com/debanjan06/Customer-Churn-prediction)
 <img align="right" alt="ML Pipeline" width="300px" src="https://img.shields.io/badge/Production_Ready-ML_System-brightgreen?style=for-the-badge" />
 
 **Complete MLOps Implementation**
