@@ -57,7 +57,7 @@ I'm a passionate data scientist who transforms complex problems into intelligent
 ### Specialized Areas
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=for-the-badge&logo=spacy&logoColor=white)
-![Remote Sensing](https://img.shields.io/badge/topic-remote%20sensing-green) 
+![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-8B5A3C?style=for-the-badge&logo=satellite&logoColor=white)
 ![Time Series](https://img.shields.io/badge/Time_Series-4ECDC4?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-45B7D1?style=for-the-badge&logo=tensorflow&logoColor=white)
 
