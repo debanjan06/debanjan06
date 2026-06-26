@@ -80,19 +80,6 @@ I'm a passionate data scientist who transforms complex problems into intelligent
 
 ---
 
-### [AgriGuard: Multi-Modal AI System](https://github.com/debanjan06/AgriGuard)
-<img align="right" alt="Computer Vision" width="300px" src="https://img.shields.io/badge/Computer_Vision-AI_Research-success?style=for-the-badge" />
-
-**Advanced Computer Vision Application**
-- Multi-Modal Architecture combining multiple data sources
-- Deep Learning Models with convolutional neural networks
-- Interactive Interface with real-time prediction capabilities
-- Research Implementation with experiment tracking and validation
-
-**Technologies**: `PyTorch` `Computer Vision` `Multi-Modal AI` `Streamlit`
-
----
-
 
 ### [Reinforcement Learning Framework](https://github.com/debanjan06/SatelliteRL)
 <img align="right" alt="RL Research" width="300px" src="https://img.shields.io/badge/RL_Research-Advanced_AI-purple?style=for-the-badge" />
